@@ -71,6 +71,7 @@
 <layer number="96" name="Values" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="97" name="Info" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="98" name="Guide" color="6" fill="1" visible="yes" active="yes"/>
+<layer number="99" name="Anatomie" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="100" name="Muster" color="7" fill="1" visible="no" active="no"/>
 <layer number="101" name="Patch_Top" color="12" fill="4" visible="no" active="yes"/>
 <layer number="102" name="Vscore" color="7" fill="1" visible="yes" active="yes"/>
@@ -124,6 +125,9 @@
 <layer number="222" name="222bmp" color="23" fill="1" visible="no" active="no"/>
 <layer number="223" name="223bmp" color="24" fill="1" visible="no" active="no"/>
 <layer number="224" name="224bmp" color="25" fill="1" visible="no" active="no"/>
+<layer number="231" name="Eagle3D_PG1" color="14" fill="1" visible="yes" active="yes"/>
+<layer number="232" name="Eagle3D_PG2" color="14" fill="2" visible="yes" active="yes"/>
+<layer number="233" name="Eagle3D_PG3" color="14" fill="4" visible="yes" active="yes"/>
 <layer number="248" name="Housing" color="7" fill="1" visible="no" active="yes"/>
 <layer number="249" name="Edge" color="7" fill="1" visible="no" active="yes"/>
 <layer number="250" name="Descript" color="3" fill="1" visible="no" active="no"/>
@@ -6018,15 +6022,6 @@ Metric Code Size 5664</description>
 </nets>
 </sheet>
 </sheets>
-<errors>
-<approved hash="104,1,73.66,106.68,LCD1,VBAT,3.3V,,,"/>
-<approved hash="104,1,73.66,101.6,LCD1,VSS,GND,,,"/>
-<approved hash="104,1,73.66,99.06,LCD1,VDD,3.3V,,,"/>
-<approved hash="104,1,73.66,86.36,LCD1,VCOMH,N$5,,,"/>
-<approved hash="104,1,73.66,83.82,LCD1,VCC,N$6,,,"/>
-<approved hash="115,1,80.4545,102.383,LCD1,,,,,"/>
-<approved hash="115,1,233.917,106.811,JP1,,,,,"/>
-</errors>
 </schematic>
 </drawing>
 </eagle>
